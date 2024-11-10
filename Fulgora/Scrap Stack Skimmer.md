@@ -1,8 +1,8 @@
 # Scrap Stack Skimmer
 
-** [Scrap Stack Skimmer](https://factoriobin.com/post/09sq53)
+## [Scrap Stack Skimmer](https://factoriobin.com/post/dot3il)
 
-*** Description
+### Description
 Remove the combinator and replace it with a single green wire into a roboport to read your logistics network. 
 [Selector] - Sets quality level
 [Selector] - Set to stack level to get stack quanity
